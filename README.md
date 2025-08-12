@@ -5,6 +5,7 @@ This repository contains my complete learning journey in MySQL, from beginner to
 **Contents**
 
 **1. Beginner to Intermediate SQL**
+
 **Basic Queries**
 - Select_Statment.sql – Retrieving data using the SELECT statement.
 - WHERE_CLAUSE.sql – Filtering records with WHERE.
@@ -27,23 +28,27 @@ This repository contains my complete learning journey in MySQL, from beginner to
 - window_functions.sql – Using ranking and analytic functions.
 - subqueries.sql – Nested queries for complex operations.
 
-**Portfolio Project – Data Cleaning & EDA**
+**2) Portfolio Project – Data Cleaning & EDA**
+
 data_cleaning.sql – Practical cleaning queries.
 EDA.sql – Exploratory Data Analysis with SQL.
 layoffs.csv – Dataset used for data cleaning and analysis.
 
 **Features**
+
 Covers all major SQL concepts from scratch to advanced.
 Includes real-world datasets for practice.
 Practical data cleaning and EDA project.
 Organized structure for easy navigation and learning.
 
 **Tools Used**
+
 MySQL Workbench – Query writing and database design.
 CSV Files – For data import and cleaning.
 GitHub – Version control and sharing progress.
 
 **How to Use**
+
 Clone this repository:
 git clone https://github.com/rachanap0/MySQL-Learning.git
 Import .sql files into MySQL Workbench or your preferred SQL environment.
