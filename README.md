@@ -2,7 +2,6 @@
 
 This repository contains my complete learning journey in MySQL, from beginner to advanced concepts, along with hands-on projects and practice files. It serves as a structured reference for SQL concepts, syntax, and real-world applications.
 
-**Contents**
 
 **1. Beginner to Intermediate SQL**
 
@@ -28,7 +27,7 @@ This repository contains my complete learning journey in MySQL, from beginner to
 - window_functions.sql – Using ranking and analytic functions.
 - subqueries.sql – Nested queries for complex operations.
 
-**2) Portfolio Project – Data Cleaning & EDA**
+**2. Portfolio Project – Data Cleaning & EDA**
 
 data_cleaning.sql – Practical cleaning queries.
 EDA.sql – Exploratory Data Analysis with SQL.
